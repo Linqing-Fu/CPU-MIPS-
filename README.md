@@ -1,2 +1,2 @@
 # CPU-MIPS-
-monocycle CPU
+monocycle CPU under the MIPS instruction set 
